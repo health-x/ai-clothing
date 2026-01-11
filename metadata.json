@@ -1,0 +1,7 @@
+{
+  "name": "AI 换装实验室",
+  "description": "基于 Gemini Nano Banana 生图能力开发的 AI 换装工具，让用户能够通过简单的图片上传或提示词生成，实现虚拟试穿体验。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
